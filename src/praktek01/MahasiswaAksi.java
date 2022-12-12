@@ -17,6 +17,6 @@ public class MahasiswaAksi {
         Yulis.NPM="2010010260";
         Yulis.IPK=3.5;
               
-        
+        Yulis.cetakinfo();
     }
 }
